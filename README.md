@@ -106,8 +106,6 @@ Reusable > Repeated
 Explicit  > Magic
 Validated > Trusted
 Audited   > Assumed
-Automated > Manual
-Understand > Copy/Paste
 ```
 
 ---

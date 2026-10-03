@@ -108,6 +108,24 @@ Validated > Trusted
 Audited   > Assumed
 ```
 
+## 🧠 About the Commit Count
+
+> **“Damn, not that many commits.”**
+
+Yeah. That's intentional.
+
+I don't commit just to make the graph green.
+
+I **review it → study it → build it → test it → break it → fix it → ship it.**
+
+No rushed commits. No copy-paste slop. No *“it works on my machine”* engineering.
+
+I care more about **understanding what I ship** than how often I ship it.
+
+**Less noise. More competence.**
+
+`Understand → Build → Test → Refine → Ship`
+
 ---
 
 ## 🌎
